@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1095858212223",
+    "project_id": "whack-a-mole-c6d7f",
+    "storage_bucket": "whack-a-mole-c6d7f.firebasestorage.app",
+    "firebase_url": "https://whack-a-mole-c6d7f-default-rtdb.europe-west1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095858212223:android:bb41f53744975f044c5e4a",
+        "android_client_info": {
+          "package_name": "com.example.whack_a_mole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-aps31_1YXY1ZFIi_3zwAA7IqdqxvmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
